@@ -84,5 +84,6 @@ Use local network or secure tunnels for remote access
 
 This GitHub repository includes a step-by-step guided presentation documenting the project.
 
-<img width="939" height="528" alt="image" src="https://github.com/user-attachments/assets/b373cc2c-4537-42a4-80ce-2e4f1c26e473" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/c6c68667-f7c0-4c94-8603-c4d0e0d3bc52" />
+
 
