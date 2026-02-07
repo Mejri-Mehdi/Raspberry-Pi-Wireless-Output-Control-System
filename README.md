@@ -83,3 +83,6 @@ Avoid exposing control ports publicly without security measures
 Use local network or secure tunnels for remote access
 
 This GitHub repository includes a step-by-step guided presentation documenting the project.
+
+<img width="939" height="528" alt="image" src="https://github.com/user-attachments/assets/b373cc2c-4537-42a4-80ce-2e4f1c26e473" />
+
