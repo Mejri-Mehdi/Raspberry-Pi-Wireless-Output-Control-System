@@ -138,8 +138,6 @@ I’m always open to discussing ideas, improvements, or custom implementations.
 
 📧 Reach out via email – mehdimejri15@gmail.com
 
-🐙 Open a GitHub issue – use the Issues tab
-
 💬 DM me directly – don’t be shy! I’d love to help.
 
 📄 License
