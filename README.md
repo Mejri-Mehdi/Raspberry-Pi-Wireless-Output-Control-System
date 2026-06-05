@@ -35,6 +35,6 @@ Use authentication, avoid public exposure, and prefer local networks or secure t
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6c68667-f7c0-4c94-8603-c4d0e0d3bc52"
        alt="System Diagram"
-       width="400"/>
+       width="4000"/>
 </p>
 
